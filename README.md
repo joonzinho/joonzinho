@@ -1,6 +1,6 @@
 # Hello! My name is João Victor and welcome to my profile.
 
-Student in Data Science at (Mackenzie Presbyterian University)
+Data Science Student at (Mackenzie Presbyterian University)
 
 My Toolbox to (Data Science): 
 - Python (w/ library: Pandas, Numpy and Matlab)

@@ -1,14 +1,5 @@
-# Hello! My name is João Victor and welcome to my profile.
+Olá, meu nome é João Victor Santos!
 
-Data Science Student at (Mackenzie Presbyterian University)
+Atualmente atuo como Programador Junior na RPC - Rede de Televisão Brasileira, no estado do Paraná. Tenho como objetivo postar alguns repositórios de cunho didático, e compartilhar do meu conhecimento com as pessoas. Fique à vontade para me chamar pelo linkedIn.
 
-My Toolbox to (Data Science): 
-- Python (w/ library: Pandas, Numpy and Matlab)
-- SQL (SQL, MySQL and MySQL Server)
-- Tableau
-- Google Sheets
-- Cloud Computing (GSP and AWS)
-
-Linkedin: https://www.linkedin.com/in/jvicsantos/
-
-E-mail to contact: jjsilvaa@icloud.com
+**LinkedIn:** https://www.linkedin.com/in/jvicsantos/
